@@ -1,0 +1,200 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17.1px;
+
+}
+
+.outerb {
+
+    /* height: 30cm; */
+    width: 21cm;
+    display: inline-block;
+    margin-top:5px;
+    margin-left: 10px;
+}
+
+.cgpa{
+    font-style: italic;
+    letter-spacing: 5px;
+    font-size: 19px;
+}
+
+
+.lborder {
+    background-color: #022e18ea;
+    border: 2px solid black;
+    color: white;
+    padding-left: 10px;
+    height: 36.5cm;
+    width: 9cm;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    display: inline-block;
+
+}
+
+.rborder {
+    position: absolute;
+    display: inline-block;
+    padding-left: 5px;
+    border: 2px solid black;
+    background-color: white;
+    width: 18cm;
+    height: 36.5cm;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.name {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-top: 20px;
+    font-family: ＳＡＮＤＨＹＡ Ｓ;
+    letter-spacing: 7px;
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.title {
+    font-family: Ｐｒｅｖｉｅｗ;
+}
+
+.num,
+.mail,
+.add,
+.linkedin,
+.GitHub {
+    display: inline-block;
+    margin: 0px 0px 4px 15px;
+    line-height: 34px;
+
+}
+.mail,
+.linkedin,
+.GitHub{
+    color:white;
+
+}
+
+.edmargin {
+    margin  : 5px;
+    margin-left: 8px;
+
+}
+
+.edhmargin {
+    margin-bottom: 3px;
+    margin-top: 3px;
+    font-size: 19px;
+}
+
+.educon{
+    margin-left: 30px;
+    
+}
+
+.expmargin {
+    margin: 2px;
+    font-size: 19px;
+    
+}
+.expmarginroll{
+    font-size: 20px;
+    letter-spacing: 1px;
+    /* margin: 15px 0 1px 2px; */
+    margin:15px;
+
+
+}
+
+.expmargin1 {
+    margin: 15px 0 5px 8px;
+    /* margin-left: 8px; */
+    font-size: 17px;
+    /* margin-bottom: 5px; */
+    /* margin-top: 15px; */
+}
+
+.explist {
+    margin-bottom: 3px;
+    text-align: justify;
+    padding-right: 10px;
+    line-height: 25px;
+    list-style:square;
+    
+}
+
+.heading {
+    font-size: 19px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+.endline {
+    border: 1px solid white;
+    width: 234px;
+    margin-left: 30px;
+    margin-bottom: 28px;
+    margin-top: 20px;
+}
+
+.head2 {
+    font-size: 19px;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-left: 5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.head3 {
+    font-size: 19px;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-left: 5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.linkedin,.GitHub {
+    text-decoration: none;
+    /* color: black; */
+
+}
+
+.prohead {
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.content
+ {
+    text-align: justify;
+    margin-right: 8px;
+    line-height:32px;
+    list-style:square;
+}
+
+.config{
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    font-weight: bolder;
+}
